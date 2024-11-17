@@ -9,7 +9,7 @@
 Hold and drag the column from it's body or column header to move it across other columns on the board.
 
 <p align="center">
-  <img width="650" src="https://nishantpainter.github.io/personal-kanban/move_column.gif" alt="Move Column GIF" style="border-radius:16px"></p>
+  <img width="650" src="https://i.ibb.co/kGmWChj/move-column.gif" alt="Move Column GIF" style="border-radius:16px"></p>
 </p>
 
 
